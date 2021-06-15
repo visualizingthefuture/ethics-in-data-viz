@@ -1,4 +1,4 @@
-![Economist Original 4](Economist_4_original.png)
+![Economist Original 4](Economist_4_Original.png)
 * ![Economist img # 1 ](Economist_1_original.md)
 * ![Economist img # 2 ](Economist_2_original.md)
 * ![Economist img # 3 ](Economist_3_original.md)
