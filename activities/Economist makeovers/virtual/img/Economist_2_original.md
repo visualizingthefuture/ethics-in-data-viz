@@ -1,7 +1,0 @@
-![Economist Original 2](Economist_2_original.png)
-* ![Economist img # 1 ](Economist_1_original.md)
-* ![Economist img # 2 ](Economist_2_original.md)
-* ![Economist img # 3 ](Economist_3_original.md)
-* ![Economist img # 4 ](Economist_4_original.md)
-* ![Economist img # 5 ](Economist_5_original.md)
-* ![Economist img # 6 ](Economist_6_original.md)
