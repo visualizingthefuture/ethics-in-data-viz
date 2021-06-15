@@ -1,6 +1,6 @@
-#Redesigning Economist Charts #5
-### [Chart #5 data](data/Economist_5_data.md)
-### Original chart
+# Redesigning Economist Charts #5
+### [Chart #5 data](data/Economist_5_data.csv)
+### Original chart:
 ![Economist Original 5](Economist_5_original.png)
 
 ### Other Charts
