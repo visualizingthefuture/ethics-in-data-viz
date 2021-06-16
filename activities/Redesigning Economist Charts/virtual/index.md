@@ -9,11 +9,11 @@
 * Share redesigns and discuss.
 
 ## Original Economist Charts
-* [Redesigning Economist Charts # 1](img/Economist_1_original.md) and [Chart #1 data](data/Economist_1_data.csv)
-* [Redesigning Economist Charts # 2](img/Economist_2_original.md) and [Chart #2 data](data/Economist_2_data.csv)
-* [Redesigning Economist Charts # 3](img/Economist_3_original.md) and [Chart #3 data](data/Economist_3_data.csv)
-* [Redesigning Economist Charts # 4](img/Economist_4_original.md) and [Chart #4 data](data/Economist_4_data.csv)
-* [Redesigning Economist Charts # 5](img/Economist_5_original.md) and [Chart #5 data](data/Economist_5_data.csv)
-* [Redesigning Economist Charts # 6](img/Economist_6_original.md) and [Chart #6 data](data/Economist_6_data.csv)
+* [Redesigning Economist Charts # 1](Economist%20chart_1/Economist_1_original.md) and [Chart #1 data](Economist%20chart_1/Economist_1_data.csv)
+* [Redesigning Economist Charts # 2](Economist%20chart_2/Economist_2_original.md) and [Chart #2 data](Economist%20chart_2/Economist_2_data.csv)
+* [Redesigning Economist Charts # 3](Economist%20chart_3/Economist_3_original.md) and [Chart #3 data](Economist%20chart_3/Economist_3_data.csv)
+* [Redesigning Economist Charts # 4](Economist%20chart_4/Economist_4_original.md) and [Chart #4 data](Economist%20chart_4//Economist_4_data.csv)
+* [Redesigning Economist Charts # 5](Economist%20chart_5/Economist_5_original.md) and [Chart #5 data](Economist%20chart_5//Economist_5_data.csv)
+* [Redesigning Economist Charts # 6](Economist%20chart_6/Economist_6_original.md) and [Chart #6 data](Economist%20chart_6/Economist_6_data.csv)
 
 
