@@ -1,13 +1,13 @@
 # Ethics in Data Visualization workshop
 
 ## Introduction
-This hour-long workshop (undergrad and grad level) provides an introduction to ethics in data visualization. Please feel free to use this workshop, repurpose and remix this content, add suggestions to this project, etc.!
+This workshop (undergrad and grad level) provides an introduction to ethics in data visualization. Please feel free to use this workshop, repurpose and remix this content, add suggestions to this project, etc.!
 
-This work is part of the IMLS-funded [Visualizing the Future](visualizingthefuture.github.io/) project.
+This project was made possible in part by the [Institute of Museum and Library Services](https://www.imls.gov/), RE-73-18-0059-18.
 
 ## How to teach this course
 
-We provide two starting points for teaching Ethics in Data Visualization:"
+We provide two starting points for teaching Ethics in Data Visualization:
 
 ### 1. A single, self-contained instructor slideshow 
 
@@ -18,7 +18,7 @@ This slideshow includes everything you'll need to lead the workshop. In addition
 
 We've included a variety of materials to make in-person instruction easier, and also to help you excerpt some of the activities and ideas here for use in another course. These include:
 * Printable activity guides
-* Other things!!
+* Extra resources for online instruction
 
 
 ## The goals for this workshop
@@ -29,6 +29,12 @@ By the end of this sessions, learners will be able to:
 * Understand how decisions in the steps up to data visualization can affect the final visualization 
 * Identify common sources of bias in the data visualization process
 * Practice ethics-centered data visualization design
+
+## Proposed timeline
+
+* **Lecture:** 15-20 min lecturing, including individual/small group reflection questions
+* **1st Activity:** Mapping Census (ACS) Data: 10-20 min full group, 15-30 min small group
+* **2nd Activity:** Redesigning Economist Charts: 15-30 full group, 30-50 min small group
 
 
 ## Acknowledgments and license
