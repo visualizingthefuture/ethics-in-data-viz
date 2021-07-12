@@ -36,6 +36,16 @@ By the end of this sessions, learners will be able to:
 * **1st Activity:** Mapping Census (ACS) Data: 10-20 min full group, 15-30 min small group
 * **2nd Activity:** Redesigning Economist Charts: 15-30 full group, 30-50 min small group
 
+## Setup for online instruction
+Create an online shareable document(s) or forum(s) for small group activities with links to the content or content embedded so groups can keep track of their discussions and have easy access to the images of the charts
+
+## Setup for in-person instruction
+Print out enough copies of the charts for each small group for each activity.
+
+## Teaching tips for Redesigning Economist Charts
+* Depending on the experience level of the students, it may be beneficial to demonstrate or work through one of the examples as a class first
+* In some of the charts, it is more difficult to pick out what is misleading so they have been rated as easy, medium, and difficult in the instructor notes so choose the ones that would best fit your group or use the difficult chart as a bonus chart for groups to try if they have time
+* With a large class, many groups can be working on the same chart
 
 ## Acknowledgments and license
 CC-NA-SA
