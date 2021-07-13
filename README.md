@@ -58,6 +58,7 @@ Go through the slides as a class and use the questions as discussion prompts.
 * Share each group’s question and their response and discuss all together then show the remaining slides and discuss the questions for those slides
 
 ## Activity: Redesigning Economist Charts
+In this activity, students will look at the impact of chart elements on the clarity of the chart's message and how changing the elements can improve the clarity of the message and avoid confusion.
 
 ### Running the activity as a whole class
 Choose one or more examples to work through as a class using the quetions as discussion guides. 
@@ -72,6 +73,7 @@ Choose one or more examples to work through as a class using the quetions as dis
 * Ask each group to share their redesign and show the better versions from the article
     * Discuss the misleading and confusing elements and if the group found something different than the article, it's a great chance to talk about differences in perspectives and the many ways to visualize the same data
     * If demonstrating a particular software, you could also demonstrate how to adjust scale and colors 
+    * Some interesting themes that might come up in discussion: Who is the likely audience of this publication? What can they be expected to understand?
 
 ### Teaching tips for Redesigning Economist Charts
 * Depending on the experience level of the students, it may be beneficial to demonstrate or work through one of the examples as a class first
