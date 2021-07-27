@@ -33,52 +33,11 @@ By the end of this sessions, learners will be able to:
 ## Proposed timeline
 
 * **Lecture:** 15-20 min lecturing, including individual/small group reflection questions
-* **1st Activity:** Mapping Census (ACS) Data: 10-20 min full group, 15-30 min small group
-* **2nd Activity:** Redesigning Economist Charts: 15-30 full group, 30-50 min small group
+* **1st Activity:** [Mapping Census (ACS) Data](activities/Mapping%20Census%20(ACS)%20Data): 10-20 min full group, 15-30 min small group
+* **2nd Activity:** [Redesigning Economist Charts](activities/Redesigning%20Economist%20Charts): 15-30 full group, 30-50 min small group
 
 ## Setup for online instruction
 Create an online shareable document(s) or forum(s) for small group activities with links to the content or content embedded so groups can keep track of their discussions and have easy access to the images of the charts
 
 ## Setup for in-person instruction
 Print out enough copies of the charts for each small group for each activity.
-
-## Activity: Mapping Census (ACS) Data
-This activity looks at the impact of intersectionality and intersecting identities when mapping demographic data. The example are maps of Mississippi counties using Ameican Community Survey (ACS) data to map the percentage of people per county with income below poverty. The first set of maps compares men and women where no stark differences are seen but when race and gender are both taken into account, in the 4 maps of the second set, the dual impact of race and gender is illustrated.
-
-### Running the activity as a whole class
-Go through the slides as a class and use the questions as discussion prompts.
-
-### Running as a small group activity 
-* Split class into groups of 5-6 people
-* Each group receives the same 2 maps showing Income Below Poverty by County in Mississippi. 
-* Each group is given one of the following questions (only one question per group):
-    * What conclusions would you draw about any effect of gender on poverty levels in Mississippi?
-    * Are there any misleading components of the maps?
-    * Is there any information that is missing that would be necessary for interpreting these maps?
-* Share each group’s question and their response and discuss all together then show the remaining slides and discuss the questions for those slides
-
-## Activity: Redesigning Economist Charts
-In this activity, students will look at the impact of chart elements on the clarity of the chart's message and how changing the elements can improve the clarity of the message and avoid confusion.
-
-### Running the activity as a whole class
-Choose one or more examples to work through as a class using the quetions as discussion guides. 
-
-### Running as a small group activity
-* Split class into small groups (2-4 people)
-* Give each group a copy of an original chart or the link to the original chart
-* Ask each group to answer the following questions
-    * What message is the chart trying to get across?
-    * What is misleading about this chart or preventing this message from getting across?
-    * With the above questions in mind, how would you redesign the chart? Sketch our or use your preferred visualization software to redesign the chart.
-* Ask each group to share their redesign and show the better versions from the article
-    * Discuss the misleading and confusing elements and if the group found something different than the article, it's a great chance to talk about differences in perspectives and the many ways to visualize the same data
-    * If demonstrating a particular software, you could also demonstrate how to adjust scale and colors 
-    * Some interesting themes that might come up in discussion: Who is the likely audience of this publication? What can they be expected to understand?
-
-### Teaching tips for Redesigning Economist Charts
-* Depending on the experience level of the students, it may be beneficial to demonstrate or work through one of the examples as a class first
-* In some of the charts, it is more difficult to pick out what is misleading so they have been rated as easy, medium, and difficult in the instructor notes so choose the ones that would best fit your group or use the difficult chart as a bonus chart for groups to try if they have time
-* With a large class, many groups can be working on the same chart
-
-## Acknowledgments and license
-CC-NA-SA
