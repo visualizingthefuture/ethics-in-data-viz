@@ -7,6 +7,16 @@ An [early version of this workshop](https://umich.box.com/s/5rbtbrt48yvqh7cwm5rv
 
 This project was made possible in part by the [Institute of Museum and Library Services](https://www.imls.gov/), RE-73-18-0059-18. 
 
+## Contents
+
+* Slides
+  * PowerPoint
+  * PDF for presenting
+  * PDF with notes for instructors
+* Activities
+  * [Mapping Census (ACS) Data](activities/Mapping%20Census%20(ACS)%20Data)
+  * [Redesigning Economist Charts](activities/Redesigning%20Economist%20Charts)
+
 ## How to teach this course
 
 We provide two starting points for teaching Ethics in Data Visualization:
