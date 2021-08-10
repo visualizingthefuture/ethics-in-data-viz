@@ -1,6 +1,8 @@
 # Activity: Redesigning Economist Charts
 In this activity, students will look at the impact of chart elements on the clarity of the chart's message and how changing the elements can improve the clarity of the message and avoid confusion.
 
+[Download Redesigning Economist Charts Activity Files](RedesigningEconomistChartsActivity_AllFiles.zip)
+
 ## Running the activity as a whole class
 Choose one or more examples to work through as a class using the quetions as discussion guides. 
 
