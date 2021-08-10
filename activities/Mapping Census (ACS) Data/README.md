@@ -1,6 +1,8 @@
 # Activity: Mapping Census (ACS) Data
 This activity looks at the impact of intersectionality and intersecting identities when mapping demographic data. The example are maps of Mississippi counties using American Community Survey (ACS) data to map the percentage of people per county with income below poverty. The first set of maps compares men and women where no stark differences are seen but when race and gender are both taken into account, in the 4 maps of the second set, the dual impact of race and gender is illustrated.
 
+[Download Mapping Census Activity Files](Mapping%20Census%20(ACS)%20Data/MappingCensusActivity_AllFiles.zip)
+
 ## Running the activity as a whole class
 Go through the slides as a class and use the questions as discussion prompts in the slides.
 
