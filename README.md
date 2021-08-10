@@ -10,9 +10,9 @@ This project was made possible in part by the [Institute of Museum and Library S
 ## Contents
 
 * Slides
-  * PowerPoint
-  * PDF for presenting
-  * PDF with notes for instructors
+  * [PowerPoint](Ethics%20in%20Data%20Visualization%20Module.pptx)
+  * [PDF for presenting](Ethics%20in%20Data%20Visualization%20Module_Presentation%20Version.pdf)
+  * [PDF with notes for instructors](Ethics%20in%20Data%20Visualization%20Module_Instructor%20notes.pdf)
 * Activities
   * [Mapping Census (ACS) Data](activities/Mapping%20Census%20(ACS)%20Data)
   * [Redesigning Economist Charts](activities/Redesigning%20Economist%20Charts)
