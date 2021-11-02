@@ -3,7 +3,7 @@
 ## Introduction
 This workshop (undergrad and grad level) provides an introduction to ethics in data visualization. Please feel free to use this workshop, repurpose and remix this content, add suggestions to this project, etc.! 
 
-An [early version of this workshop](https://umich.box.com/s/5rbtbrt48yvqh7cwm5rvcyb0dcig9674) is available as a recording.
+An [early version of this workshop](https://www.youtube.com/watch?v=T3UQLlJCXVU) is available as a recording.
 
 This project was made possible in part by the [Institute of Museum and Library Services](https://www.imls.gov/), RE-73-18-0059-18. 
 
