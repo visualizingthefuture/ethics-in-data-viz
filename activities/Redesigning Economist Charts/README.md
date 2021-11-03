@@ -9,7 +9,7 @@ Choose one or more examples to work through as a class using the quetions as dis
 ## Running as a small group activity
 * Split class into small groups (2-4 people)
 * Give each group a copy of an original chart or the link to the original chart
-   * [Chart #1](virtual/Economist%20chart_1/Economist_1_original.md)
+   * [Chart #1](virtual/Economist%20chart_1/Economist_1_original)
    * [Chart #2](virtual/Economist%20chart_2/Economist_2_original.md)
    * [Chart #3](virtual/Economist%20chart_3/Economist_3_original.md)
    * [Chart #4](virtual/Economist%20chart_4/Economist_4_original.md)
