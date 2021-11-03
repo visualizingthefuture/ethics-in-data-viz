@@ -8,7 +8,7 @@ Go through the slides as a class and use the questions as discussion prompts in 
 
 ## Running as a small group activity 
 * Split class into groups of 5-6 people
-* Each group receives the same [2 maps showing Income Below Poverty by County in Mississippi](virtual/Mapping Census ACS Data_original.md). 
+* Each group receives the same [2 maps showing Income Below Poverty by County in Mississippi](activities/Mapping%20Census%20(ACS)%20Data_original). 
 * Each group is given one of the following questions (only one question per group):
     * What conclusions would you draw about any effect of gender on poverty levels in Mississippi?
     * Are there any misleading components of the maps?
