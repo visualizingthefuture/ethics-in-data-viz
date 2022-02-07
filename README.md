@@ -5,7 +5,7 @@ This workshop (undergrad and grad level) provides an introduction to ethics in d
 
 An [early version of this workshop](https://www.youtube.com/watch?v=T3UQLlJCXVU) is available as a recording.
 
-This project was made possible in part by the [Institute of Museum and Library Services](https://www.imls.gov/), RE-73-18-0059-18. 
+This project was developed by the [Visualizing the Future](https://visualizingthefuture.github.io/) team and was made possible in part by the [Institute of Museum and Library Services](https://www.imls.gov/), RE-73-18-0059-18. 
 
 ## Contents
 
